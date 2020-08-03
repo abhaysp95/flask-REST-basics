@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+# *
+/bin/
+/lib/
+pyvenv.cfg
+/video_api_db/__pycache__/
